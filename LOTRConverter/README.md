@@ -17,7 +17,7 @@ LOTRConverter
  
 
 ### Update in iOS 17
-| SF Symbols 5 for icon (a library of iconography)
+> SF Symbols 5 for icon (a library of iconography)
 ```
 // Example for SF Symbols 5
 Image(systemName: "equal")
