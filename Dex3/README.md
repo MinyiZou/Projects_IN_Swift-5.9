@@ -5,7 +5,7 @@ Dex
 The widget screenshot:
 ![](img/5.png)
 
-## Lanugage 
+## Lanugage change in iOS 16
 Use `if let node` to replace `if let node = node` or `if node != nil` 
 
 ## Core Data
